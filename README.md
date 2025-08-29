@@ -18,13 +18,13 @@ The data can be seen on computer using **PuTTY** or on mobile app that supports 
 **Moisture Sensor**
 - Sensor VCC → ESP32 3.3V  
 - Sensor GND → ESP32 GND  
-- Sensor OUT → ESP32 GPIO34 (analog input)
+- Sensor OUT → ESP32 GPIO2 (analog input)
 
 **Bluetooth (HC-05)**
 - ESP32 GPIO17 (TX2) → HC-05 RX  
 - ESP32 GPIO16 (RX2) → HC-05 TX  
 - ESP32 GND → HC-05 GND  
-- ESP32 5V → HC-05 VCC (if board version allows)  
+- ESP32 5V → HC-05 VCC  
 
 ---
 

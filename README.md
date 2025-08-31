@@ -5,6 +5,8 @@ The data can be seen on computer using **PuTTY** or on mobile app that supports 
 
 ---
 
+<img width="833" height="707" alt="Image" src="https://github.com/user-attachments/assets/2bccdc43-3486-469d-ac1a-f010168c4e74" />
+
 ## Hardware Used
 - ESP32 board  
 - Soil moisture sensor (analog output)  
